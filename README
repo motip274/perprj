@@ -1,0 +1,20 @@
+ small library to test npm publish
+
+## Installation
+
+  `npm install @motip/perprj`
+
+## Usage
+
+    var numFormatter = require('perprj');
+    var formattedNum = numFormatter(35666);
+
+  Output should be `35,666`
+
+
+## Tests
+
+  `npm test`
+
+## Contributing
+

@@ -1,0 +1,15 @@
+{
+  "name": "perprj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Moti Peretz <motip274@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
